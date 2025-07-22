@@ -1,0 +1,80 @@
+
+    {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family:Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+      background-color: #ffd23f;
+      display: flex;
+      justify-content: center;
+    
+
+     .container {
+      width: 1200px;
+      background-color: #9c54be
+    }
+
+    .header {
+      background-color: #9b4caf;
+      color: rgb(255, 255, 255);
+      padding: 40px;
+    }
+
+     .Logo {
+    display: flex;
+    justify-content: center;
+    gap: 50px; 
+    margin-top: 15px;
+    }
+
+    .nav button {
+      background-color: #ffe53f;
+      margin: 5px;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+    }
+
+    .btn-inicio {
+      background-color: #dc89fb;
+    }
+
+    .btn-servicios {
+      background-color: #fff539;
+    }
+
+    .btn-contacto {
+      background-color:#dc89fb;
+    }
+
+    }
+
+     .section {
+      padding: 20px;
+      margin: 10px;
+      border-radius: 5px;
+    }
+
+
+    .bienvenido {
+      background-color:#ffffff;
+      color: rgb(0, 0, 0);
+    }
+
+    .destacado {
+      background-color: #ffd75e;
+      color: rgb(0, 0, 0);
+    }
+
+    footer {
+    background-color: #8e44ad; 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+}
